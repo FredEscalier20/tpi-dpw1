@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "nombre": "Guantes de entrenamiento",
+    "categoria": "Accesorios",
+    "precio": 30,
+    "imagen": "img/guantes.jpeg"
+  },
+  {
+    "id": 2,
+    "nombre": "Banda elástica",
+    "categoria": "Accesorios",
+    "precio": 34,
+    "imagen": "img/bandas.jpeg"
+  },
+  {
+    "id": 3,
+    "nombre": "Shaker 600 ml",
+    "categoria": "Accesorios",
+    "precio": 38,
+    "imagen": "img/shaker.jpeg"
+  },
+  {
+    "id": 4,
+    "nombre": "Camiseta deportiva",
+    "categoria": "Ropa",
+    "precio": 42,
+    "imagen": "img/camiseta.jpeg"
+  },
+  {
+    "id": 5,
+    "nombre": "Barras de proteína (caja)",
+    "categoria": "Suplementos",
+    "precio": 46,
+    "imagen": "img/barras.jpeg"
+  },
+  {
+    "id": 6,
+    "nombre": "Creatina 300 g",
+    "categoria": "Suplementos",
+    "precio": 50,
+    "imagen": "img/creatina.jpeg"
+  },
+  {
+    "id": 7,
+    "nombre": "Proteína whey 1 lb",
+    "categoria": "Suplementos",
+    "precio": 54,
+    "imagen": "img/proteina.jpeg"
+  }
+]
